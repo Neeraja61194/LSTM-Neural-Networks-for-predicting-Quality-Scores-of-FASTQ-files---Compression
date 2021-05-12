@@ -2,7 +2,7 @@ LSTM Neural Networks for predicting Quality Scores of FASTQ files
 
 Outcome: Compression of FASTQ files using LSTM for predicting quality scores based on Machine Information (Lane, Tile, X and Y coordinates).
 
-There are 3 basic codes (Preprocessing, Training and Testing) to generate the final compressed predicted FASTQ File. 
+There are 3 basic codes (Preprocessing, Training and Testing) to generate the final compressed FASTQ File. 
 
 • Preprocessing step takes a FASTQ file as input and outputs a CSV File.
 
