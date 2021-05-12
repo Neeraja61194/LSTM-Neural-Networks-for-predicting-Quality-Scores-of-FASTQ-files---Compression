@@ -29,3 +29,8 @@ Run the following command to do testing:
     sh exec_testing.sh test.fq train_data.csv model_checkpoints/weightsimprovement-50-0.0334.hdf5
 
 Output: predicted_qual_score.txt, predicted_qual_score.txt.gz
+
+
+# References:
+# https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+# https://stackabuse.com/solving-sequence-problems-with-lstm-in-keras/
