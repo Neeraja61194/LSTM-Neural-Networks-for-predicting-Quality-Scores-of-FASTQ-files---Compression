@@ -33,4 +33,4 @@ Output: predicted_qual_score.txt, predicted_qual_score.txt.gz
 
 # References:
 # https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-# https://stackabuse.com/solving-sequence-problems-with-lstm-in-keras/
+# https://stackabuse.com/solving-sequence-problems-with-lstm-in-keras/ 
